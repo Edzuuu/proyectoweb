@@ -216,7 +216,6 @@ footer {
     .logo {
         width: 150px;
         height: 150px;
-        background: url('../imagenes/imagenes-inicio/logo.png') center/cover no-repeat;
     }
     .info-footer {
         flex-direction: row;
